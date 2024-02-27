@@ -2,7 +2,7 @@
 Repository for the documentation of the OpenSource OmniProject 
 
 
-#Introduction
+# Introduction
 
 Last update : 27.02.2024
 
@@ -15,15 +15,15 @@ In this document you can find the repositories and documentation of the Hardware
 The project is mostly an OpenSource project started by the Auto-Intern company. 
 
 
-##Hardware
+## Hardware
 
 The Hardware of the OmniScope is internally within the company. 
 
-##Firmware
+## Firmware
 The Firmware is internally within the company 
 
-##Software
-###The OmniView GUI
+## Software
+### The OmniView GUI
 
 The OmniView GUI is the main part of the OmniProject. The Software is used to connect the OmniScope to the Laptop, take measurements and analyse this measurements. 
 
@@ -31,9 +31,9 @@ A representation of the OmniView software structure can be found in the OmniView
 
 The documentation of the OmniView Software Code and the Softwarecode itself can be found in the OmniView repository which is also linked in this repository. 
 
-###DLL
+### DLL
 Some parts of the code should be outsourced into a .dll. 
 The demo is right now documented in the linked UaDI repository.  
 
-##Contact person
+## Contact person
 If you got any questions about the documentation please create an issue in this repository. 
