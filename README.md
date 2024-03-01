@@ -4,7 +4,7 @@ Repository for the documentation of the OpenSource OmniProject
 
 # Introduction
 
-Last update : 27.02.2024
+Last update : 31.03.2024
 
 The OmniProject is a project to design an USB-oscilloscope, that is much easier to handle than a normal oscilloscope and has a variable multichannel functionality. Additionally, its integrated analyses make it accessible to individuals outside the scientific community.
 
