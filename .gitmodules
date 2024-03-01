@@ -13,3 +13,6 @@
 	url = git@github.com:AI-Gruppe/ai_fft-analysis-api-documentation_ref.git
 
 
+[submodule "sw/ai_OmniViewSW_doc"]
+	path = sw/ai_OmniViewSW_doc
+	url = git@github.com:skunkforce/ai_OmniViewSW_doc.git
