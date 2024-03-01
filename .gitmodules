@@ -1,0 +1,3 @@
+[submodule "sw/OmniView-Product-Vision"]
+	path = sw/OmniView-Product-Vision
+	url = git@github.com:skunkforce/OmniView-Product-Vision.git
