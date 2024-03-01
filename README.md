@@ -27,13 +27,15 @@ The Firmware is internally within the company
 
 The OmniView GUI is the main part of the OmniProject. The Software is used to connect the OmniScope to the Laptop, take measurements and analyse this measurements. 
 
-A representation of the OmniView software structure can be found in the OmniView-Product-Vision Document which is linked in the repository. 
+A representation of the OmniView software structure can be found in the OmniView-Product-Vision Document which is linked in the repository under sw/OmniView-Product-Vision. 
 
-The documentation of the OmniView Software Code and the Softwarecode itself can be found in the OmniView repository which is also linked in this repository. 
+The documentation of the OmniView Software Code and the Softwarecode itself can be found in the OmniView repository which is linked under sw/OmniView. 
+
+The documentation of the used API's can be found under sw/API/file. Currently only the documentation for the FFT API exists. 
 
 ### DLL
 Some parts of the code should be outsourced into a .dll. 
-The demo is right now documented in the linked UaDI repository.  
+The demo is right now documented in the linked UaDI repository linked under fw/UaDI.  
 
 ## Contact person
 If you got any questions about the documentation please create an issue in this repository. 
