@@ -1,3 +1,7 @@
+
+[submodule "sw/OmniView-Product-Vision"]
+	path = sw/OmniView-Product-Vision
+	url = git@github.com:skunkforce/OmniView-Product-Vision.git
 [submodule "sw/OmniView"]
 	path = sw/OmniView
 	url = git@github.com:skunkforce/OmniView.git
@@ -7,3 +11,5 @@
 [submodule "sw/API/ai_fft-analysis-api-documentation_ref"]
 	path = sw/API/ai_fft-analysis-api-documentation_ref
 	url = git@github.com:AI-Gruppe/ai_fft-analysis-api-documentation_ref.git
+
+
