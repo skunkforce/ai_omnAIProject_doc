@@ -29,7 +29,7 @@ The OmniView GUI is the main part of the OmniProject. The Software is used to co
 
 A representation of the OmniView software structure can be found in the OmniView-Product-Vision Document which is linked in the repository under sw/OmniView-Product-Vision. 
 
-The documentation of the OmniView Software Code and the Softwarecode itself can be found in the OmniView repository which is linked under sw/OmniView. 
+The documentation of the OmniView Software Code and the Softwarecode itself can be found in the OmniView repository which is linked under sw/OmniView and sw/ai_OmniViewSW_doc. 
 
 The documentation of the used API's can be found under sw/API/file. Currently only the documentation for the FFT API exists. 
 
