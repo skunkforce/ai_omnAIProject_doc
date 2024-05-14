@@ -16,3 +16,9 @@
 [submodule "sw/ai_OmniViewSW_doc"]
 	path = sw/ai_OmniViewSW_doc
 	url = git@github.com:skunkforce/ai_OmniViewSW_doc.git
+[submodule "sw/API/ai_battery-measurement-api_sw"]
+	path = sw/API/ai_battery-measurement-api_sw
+	url = git@github.com:AI-Gruppe/ai_battery-measurement-api_sw.git
+[submodule "sw/API/ai_fft-analysis-api_sw"]
+	path = sw/API/ai_fft-analysis-api_sw
+	url = git@github.com:AI-Gruppe/ai_fft-analysis-api_sw.git
