@@ -22,3 +22,6 @@
 [submodule "sw/API/ai_fft-analysis-api_sw"]
 	path = sw/API/ai_fft-analysis-api_sw
 	url = git@github.com:AI-Gruppe/ai_fft-analysis-api_sw.git
+[submodule "sw/OmnAIView2.0backend"]
+	path = sw/OmnAIView2.0backend
+	url = git@github.com:AI-Gruppe/OmnAIView2.0backend.git
