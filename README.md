@@ -31,7 +31,7 @@ A representation of the OmnAIView software structure can be found in the OmnAIVi
 
 The first version of the software written in c++ can be found under sw/OmnAIView.
 
-Currently the software is seperated into a backend and frontend part, which will be openSource in the next year and will be found under OmnAIView2.0. 
+Currently the software is seperated into a backend and frontend part, which will be open source in the next year and can be found under sw/ .
 
 The documentation of the used API's for analysis can be found under sw/API/file. Currently only the documentation for the FFT API exists. 
 
