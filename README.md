@@ -4,9 +4,9 @@ Repository for the documentation of the OpenSource OmnAIProject
 
 # Introduction
 
-Last update : 03.12.2024
+Last update : 21.02.2025
 
-The OmniProject is a project to design an USB-oscilloscope, that is much easier to handle than a normal oscilloscope and has a variable multichannel functionality. Additionally, its integrated analyses make it accessible to individuals outside the scientific community.
+The OmnAIProject is a project to design an USB-oscilloscope, that is much easier to handle than a normal oscilloscope and has a variable multichannel functionality. Additionally, its integrated analyses make it accessible to individuals outside the scientific community.
 
 This document provides an overview of the various repositories included in the OmnAIProject. The first line displays the last update date, indicating the document's current temporal standpoint.
 
@@ -27,13 +27,15 @@ The Firmware is internally within the company
 
 The OmniView GUI is the main part of the OmnAIProject. The Software is used to connect the OmnAIScope to the Laptop, take measurements and analyse this measurements. 
 
-A representation of the OmnAIView software structure can be found in the OmnAIView-Product-Vision Document which is linked in the repository under sw/OmnAIView-Product-Vision. 
+A representation of the OmnAIView software structure for OmnAIView 1.0 can be found in the OmnAIView-Product-Vision Document which is linked in the repository under sw/OmnAIView-Product-Vision. 
 
 The first version of the software written in c++ can be found under sw/OmnAIView.
 
-Currently the software is seperated into a backend and frontend part, which will be open source in the next year and can be found under sw/ .
-
 The documentation of the used API's for analysis can be found under sw/API/file. Currently only the documentation for the FFT API exists. 
+
+The second version OmnAIView 2.0 is currently in development. It is seperated into a cpp backend and an angular frontend. 
+Both repositorys as well as the API description for the connection between backend an frontend can be found in the sw/ folder.
+
 
 ### DLL
 Some parts of the code should be outsourced into a .dll. 
